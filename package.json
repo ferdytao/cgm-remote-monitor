@@ -62,7 +62,7 @@
     "d3": "^3.5.17",
     "ejs": "^2.6.1",
     "errorhandler": "^1.5.0",
-    "event-stream": "^3.3.6",
+    "event-stream": "^4.0.1",
     "expand-braces": "^0.1.2",
     "express": "^4.16.4",
     "express-minify": "^1.0.0",
